@@ -1,0 +1,7 @@
+For the backend, these dependencies are required.
+
+express
+body-parser
+cors
+dotenv
+replicate
